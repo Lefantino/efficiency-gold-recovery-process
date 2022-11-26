@@ -1,4 +1,5 @@
 # efficiency-gold-recovery-process
+Стек: python, pandas, matplotlib, seaborn, numpy, sklearn
 ___
 В данном проекте нам необходимо построить модель, которая сможет предсказывать эффективность процесса восстановления золота из руды.
 
